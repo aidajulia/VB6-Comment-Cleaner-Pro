@@ -30,6 +30,8 @@ Briefly describe the unexpected behavior.
 2. Run Mode 2
 3. Both lines get deleted (should preserve text comment)
 
+---
+
 ## Expected vs Actual Behavior
 **Expected**:
 "Commented code removed, text comments preserved"
@@ -37,33 +39,39 @@ Briefly describe the unexpected behavior.
 **Actual**:
 "All comments deleted regardless of content"
 
+---
+
 ## Attachments
-Problematic VB6 file (.bas/.cls)
+- Problematic VB6 file (.bas/.cls)
 
-Generated .garbage.log
+- Generated .garbage.log
 
-Error screenshot
+- Error screenshot
 
-Crash report (if applicable)
+- Crash report (if applicable)
 
-🔒 Remove sensitive data before attaching
+- 🔒 Remove sensitive data before attaching
+
+---
 
 ## Environment
-VB6 IDE Version: 6.0 SP6
+- VB6 IDE Version: 6.0 SP6
 
-Cleaner Version: v1.0.0
+- Cleaner Version: v1.0.0
 
-OS: Windows 10/11
+- OS: Windows 10/11
 
-Cleaning Mode: Mode 1/Mode 2
+- Cleaning Mode: Mode 1/Mode 2
 
-File Types Processed: .bas/.cls
+- File Types Processed: .bas/.cls
+
+---
 
 ## Additional Context
-Add special scenarios:
+- Add special scenarios:
 
-Files with mixed encoding
+- Files with mixed encoding
 
-Projects using third-party controls
+- Projects using third-party controls
 
-Large files (>10,000 lines)
+- Large files (>10,000 lines)
