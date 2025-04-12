@@ -26,18 +26,18 @@ Briefly describe the unexpected behavior.
    ```vb
    ' Troubleshooting code (commented)
    ' Dim conn As New ADODB.Connection
-Run Mode 2
+   ```
+2. Run Mode 2
+3. Both lines get deleted (should preserve text comment)
 
-Both lines get deleted (should preserve text comment)
-
-Expected vs Actual Behavior
-Expected:
+## Expected vs Actual Behavior
+**Expected**:
 "Commented code removed, text comments preserved"
 
-Actual:
+**Actual**:
 "All comments deleted regardless of content"
 
-Attachments
+## Attachments
 Problematic VB6 file (.bas/.cls)
 
 Generated .garbage.log
@@ -48,7 +48,7 @@ Crash report (if applicable)
 
 🔒 Remove sensitive data before attaching
 
-Environment
+## Environment
 VB6 IDE Version: 6.0 SP6
 
 Cleaner Version: v1.0.0
@@ -59,7 +59,7 @@ Cleaning Mode: Mode 1/Mode 2
 
 File Types Processed: .bas/.cls
 
-Additional Context
+## Additional Context
 Add special scenarios:
 
 Files with mixed encoding
