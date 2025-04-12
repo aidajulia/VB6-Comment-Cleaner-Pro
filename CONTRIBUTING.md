@@ -28,7 +28,7 @@ We welcome contributions! Here's how you can help:
 
 ## 🔧 Pull Requests
 1. **[Fork the repository](https://github.com/aidajulia/vb6-comment-cleaner-pro/fork)**
-2. Follow our **[PR Template](https://github.com/aidajulia/vb6-comment-cleaner-pro/PULL_REQUEST_TEMPLATE.md)**
+2. Follow our **[PR Template](https://github.com/aidajulia/vb6-comment-cleaner-pro/blob/main/PULL_REQUEST_TEMPLATE.md)**
 3. Test changes with multiple VB6 projects
 
 ### Development Setup
