@@ -29,7 +29,7 @@ Explain your changes in detail. Include:
 - [ ] Updated README.md if applicable  
 - [ ] Added/updated garbage log samples  
 - [ ] No debug code/console logs left  
-- [ ] Follows [coding standards](https://github.com/yourusername/vb6-comment-cleaner-pro/wiki/Coding-Standards)  
+- [ ] Follows [coding standards](https://github.com/aidajulia/vb6-comment-cleaner-pro/wiki/Coding-Standards)  
 
 ## Related Issues  
 - Closes #123  
