@@ -4,7 +4,7 @@ We welcome contributions! Here's how you can help:
 
 ## 🐛 Reporting Bugs
 1. **Search [existing issues](https://github.com/aidajulia/vb6-comment-cleaner-pro/issues)** to avoid duplicates
-2. Use our **[Bug Report Template](https://github.com/aidajulia/vb6-comment-cleaner-pro/issues/new?template=bug_report.md)**
+2. Use our **[Bug Report Template](https://github.com/aidajulia/vb6-comment-cleaner-pro/issues/new?template=bug_report.md&labels=bug)**
 3. Include:
    - VB6 IDE version (e.g., 6.0 SP6)
    - Exact steps to reproduce
